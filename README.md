@@ -17,8 +17,8 @@ Projeto do curso de Git e Github da Alura, com o objetivo de aprender essas tecn
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Html](https://www.w3schools.com/html/)
-- [Github]()
-- [git]()
+- [Github](https://github.com/)
+- [git](https://git-scm.com/)
 
 ---
 
